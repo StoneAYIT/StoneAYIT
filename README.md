@@ -1,10 +1,10 @@
-Hello, I'm Christian Stone
+😄 Hello, I'm Christian Stone
 
 Im currently working as Fleet Administator specialising in Data Analytics and Reporting.
 
-I'm interested in transistioning into a fulltime Data Analytic role where I can leverage my expertice and experience. I primarily develop reports from ground up that are distributed throughout the company. The tools I primarily use are PowerBI and Excel. I'm currently exploring various specailty softwares in an attempt to streamline processes within my role.
+💬 I'm interested in transistioning into a fulltime Data Analytic role where I can leverage my expertice and experience. I primarily develop reports from ground up that are distributed throughout the company. The tools I primarily use are PowerBI and Excel. Due to limitations set by the company I have been unable to explore and implenetmt more specialised software options into my workflow, with that said however, I am keen to learn and develop my skills further, and the imposed limitations are defiently a driving factor for wanting to explore a new position.
 
-My most recent project was; Lightfoot Disconnect Reporting (Vehicle Tracker disconnects across the business and the on-going issues on a department by department basis for actioning by Managers to ensure compliance). This report, and the specfics regarding the creation, can be found in my repository.
+🔭 My most recent project was; Lightfoot Disconnect Reporting (Vehicle Tracker disconnects across the business and the on-going issues on a department by department basis for actioning by Managers to ensure compliance). This report, and the specfics regarding the creation, can be found in my repository.
 
 
 
