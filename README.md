@@ -6,6 +6,8 @@ Im currently working as Fleet Administator specialising in Data Analytics and Re
 
 🔭 My most recent project was; Lightfoot Disconnect Reporting (Vehicle Tracker disconnects across the business and the on-going issues on a department by department basis for actioning by Managers to ensure compliance). This report, and the specfics regarding the creation, can be found in my repository.
 
+🌱 As mentioned im working to develop my skills with more specialised software. Using my own free-time to work on self development has really given me insight on where to prioritse my efforts and what my weakness are. At current, I belive I need to work to better my Data Visulisation skills. I, myself, have no issue with large swathes of text based data and am able to dicecern easily what is being presented, however, since distrubtuing my reports business wide, it has become aparant that this isn't the case for all. As such this is where I'm currently focusing my efforts.
+
 
 
 <!--
