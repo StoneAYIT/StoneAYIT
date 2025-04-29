@@ -3,11 +3,10 @@
 🔭 This porfolio is a mix of personal projects, case studies and real world applications. Some are business-focused, others aren't - But each has been an oppertunity to build, learn and develop my skills.
 
 ⚡ I'm most comofrtable with;
-      -Excel
       
+      -Excel
         -VBA
         -Power Query
-        
       -Power BI
 
   📫 Connect with me;
