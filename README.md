@@ -1,12 +1,16 @@
-😄 Hello, I'm Christian Stone
+😄 Hello, I'm Christian Stone. This is where I'll be sharing certain data projects I've worked on. I', passionate about the use of data to solve problems and raise questions and feel as if it is a key compantent in any industry, or atleast could be.
 
-Im currently working as Fleet Administator specialising in Data Analytics and Reporting.
+🔭 This porfolio is a mix of personal projects, case studies and real world applications. Some are business-focused, others aren't - But each has been an oppertunity to build, learn and develop my skills.
 
-💬 I'm interested in transistioning into a fulltime Data Analytic role where I can leverage my expertice and experience. I primarily develop reports from ground up that are distributed throughout the company. The tools I primarily use are PowerBI and Excel. Due to limitations set by the company I have been unable to explore and implenetmt more specialised software options into my workflow, with that said however, I am keen to learn and develop my skills further, and the imposed limitations are defiently a driving factor for wanting to explore a new position.
+⚡ I'm most comofrtable with;
+      -Excel
+        -VBA
+        -Power Query
+      -Power BI
 
-🔭 My most recent project was; Lightfoot Disconnect Reporting (Vehicle Tracker disconnects across the business and the on-going issues on a department by department basis for actioning by Managers to ensure compliance). This report, and the specfics regarding the creation, can be found in my repository.
+  📫 Connect with me;
+      -LinkedIn: https://www.linkedin.com/in/christian-stone-484020222/
 
-🌱 As mentioned im working to develop my skills with more specialised software. Using my own free-time to work on self development has really given me insight on where to prioritse my efforts and what my weakness are. At current, I belive I need to work to better my Data Visulisation skills. I, myself, have no issue with large swathes of text based data and am able to dicecern easily what is being presented, however, since distrubtuing my reports business wide, it has become aparant that this isn't the case for all. As such this is where I'm currently focusing my efforts.
 
 
 
