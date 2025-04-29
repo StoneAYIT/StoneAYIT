@@ -4,8 +4,10 @@
 
 ⚡ I'm most comofrtable with;
       -Excel
+      
         -VBA
         -Power Query
+        
       -Power BI
 
   📫 Connect with me;
