@@ -10,8 +10,7 @@
       -Power BI
 
   📫 Connect with me;
-  
-      -LinkedIn: https://www.linkedin.com/in/christian-stone-484020222/
+      LinkedIn: https://www.linkedin.com/in/christian-stone-484020222/
 
 
 
